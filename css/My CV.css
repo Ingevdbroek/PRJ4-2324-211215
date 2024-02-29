@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.pipi {
+    color: #ED080B;	
+}
+.rob {
+    font-family: "Micro 5", sans-serif;
+    font-size: large;	
+}
+#lala {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;	
+	
+}
+
+
+.mybox {
+    width: 305px;
+    height: 100px;
+    border-width: thick;
+	border-style: solid;
+    background-color: #EB33B0;
+}
+
+.btn-danger {
+	
+	background-color: #EB33B0;
+}
