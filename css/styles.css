@@ -60,3 +60,15 @@ body {
     font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
 }
 
+
+.column1 {
+    background-color: #F200FF;	
+}
+
+.column2 {
+    background-color: #27BCFF;	
+}
+
+.column3 {
+    background-color: #4EFF9F;	
+}
