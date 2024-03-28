@@ -1,17 +1,8 @@
 @charset "utf-8";
 
-.pipi {
-    color: #ED080B;	
+body{
+	font-family: 'Tac One', sans-serif;
 }
-.rob {
-    font-family: "Micro 5", sans-serif;
-    font-size: large;	
-}
-#lala {
-    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;	
-	
-}
-
 
 .mybox {
     width: 305px;
